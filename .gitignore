@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+.directory
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~.nib
+*.xcworkspace/
+*.sublime-project
+*.sublime-workspace
+
+# Project artifacts
+*.pdf
+*.epub
+*.html
+.build/
+dist/
+build/
+
+# Development scratch
+scratch/
+temp/
+*.tmp
+.notes
+
+# Dependencies (if applicable)
+node_modules/
+venv/
+*.pyc
+__pycache__/
+
+# Git
+.git/objects/pack/*.keep
